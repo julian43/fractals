@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/math/graph2d/GraphPaper.java</file>
+        <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/math/fractal/MultiJMSet.java</file>
+        <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/math/fractal/MultiFractalImageGenerator.java</file>
+        <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/math/fractal/DoMultiFractal.java</file>
+        <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/interfrac/FracMDIApplication.java</file>
+        <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/math/fractal/DoFractal.java</file>
+        <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/math/fractal/FractalImageGenerator.java</file>
+        <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/math/graph2d/InternalGraphPaper.java</file>
+    </open-files>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/interfrac/DoMultiMandelBrot.java</file>
+            <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/math/fractal/FractalImageGenerator.java</file>
+            <file>file:/home/cowell/NetBeansProjects/InterFrac/src/com/dookoonu/math/fractal/MultiJMSet.java</file>
+        </group>
+        <group name="Deployment"/>
+    </open-files>
+</project-private>
